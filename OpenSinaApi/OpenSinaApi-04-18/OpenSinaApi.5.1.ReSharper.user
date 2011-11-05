@@ -1,0 +1,49 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Web.config" caret="2066" fromTop="13" />
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx" caret="510" fromTop="14" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:Method.cs" caret="0" fromTop="0" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:IHttpRequestMethod.cs" caret="107" fromTop="4" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpGet.cs" caret="732" fromTop="3" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpRequestFactory.cs" caret="162" fromTop="6" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:BaseHttpRequest.cs" caret="1809" fromTop="12" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:oAuthBase.cs" caret="6196" fromTop="5" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpPost.cs" caret="2679" fromTop="7" />
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx.cs" caret="3986" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpGet.cs" caret="2191" fromTop="12" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpGet.cs" caret="1886" fromTop="8" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpPost.cs" caret="674" fromTop="10" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpPost.cs" caret="1076" fromTop="16" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:BaseHttpRequest.cs" caret="1411" fromTop="15" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:BaseHttpRequest.cs" caret="1917" fromTop="14" />
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx.cs" caret="2277" fromTop="7" />
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx.cs" caret="3956" fromTop="13" />
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx.cs" caret="4557" fromTop="15" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpPost.cs" caret="2688" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

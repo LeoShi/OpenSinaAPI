@@ -1,0 +1,29 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx.cs" caret="4272" fromTop="8" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:BaseHttpRequest.cs" caret="2832" fromTop="8" />
+      <File id="407C3459-3EE2-4D28-BB68-0EFD84774040/f:HttpPost.cs" caret="1046" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx.cs" caret="4372" fromTop="21" />
+      <File id="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19/f:Sample.aspx.cs" caret="3832" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

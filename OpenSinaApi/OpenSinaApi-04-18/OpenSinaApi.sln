@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oauth4Web", "Oauth4Web\Oauth4Web.csproj", "{CDE5344F-3C1C-4386-A822-F6DFBAFC1D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oAuthSina", "oAuthSina\oAuthSina.csproj", "{407C3459-3EE2-4D28-BB68-0EFD84774040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDE5344F-3C1C-4386-A822-F6DFBAFC1D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE5344F-3C1C-4386-A822-F6DFBAFC1D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE5344F-3C1C-4386-A822-F6DFBAFC1D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE5344F-3C1C-4386-A822-F6DFBAFC1D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407C3459-3EE2-4D28-BB68-0EFD84774040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407C3459-3EE2-4D28-BB68-0EFD84774040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407C3459-3EE2-4D28-BB68-0EFD84774040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407C3459-3EE2-4D28-BB68-0EFD84774040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

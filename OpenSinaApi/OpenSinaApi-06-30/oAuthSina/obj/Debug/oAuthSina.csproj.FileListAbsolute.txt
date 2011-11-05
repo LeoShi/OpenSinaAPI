@@ -1,0 +1,6 @@
+D:\Code\SinaApp\NewVersion\OpenSinaApi\OpenSinaApi-06-30[推荐下载]\oAuthSina\bin\Debug\OpenSinaAPI.dll.config
+D:\Code\SinaApp\NewVersion\OpenSinaApi\OpenSinaApi-06-30[推荐下载]\oAuthSina\bin\Debug\OpenSinaAPI.dll
+D:\Code\SinaApp\NewVersion\OpenSinaApi\OpenSinaApi-06-30[推荐下载]\oAuthSina\bin\Debug\OpenSinaAPI.pdb
+D:\Code\SinaApp\NewVersion\OpenSinaApi\OpenSinaApi-06-30[推荐下载]\oAuthSina\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\SinaApp\NewVersion\OpenSinaApi\OpenSinaApi-06-30[推荐下载]\oAuthSina\obj\Debug\OpenSinaAPI.dll
+D:\Code\SinaApp\NewVersion\OpenSinaApi\OpenSinaApi-06-30[推荐下载]\oAuthSina\obj\Debug\OpenSinaAPI.pdb

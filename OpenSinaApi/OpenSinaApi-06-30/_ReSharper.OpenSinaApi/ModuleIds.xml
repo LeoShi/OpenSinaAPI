@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="CDE5344F-3C1C-4386-A822-F6DFBAFC1D19" ModuleId="Oauth4Web" />
+  <Module PersistentId="407C3459-3EE2-4D28-BB68-0EFD84774040" ModuleId="oAuthSina" />
+</Modules>
